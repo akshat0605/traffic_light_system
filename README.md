@@ -3,7 +3,7 @@
 ## **Report**
 
 ### **Name: Akshat Agarwal**
-**Branch: Energy Engineering**
+### **Branch: Energy Engineering**
 
 
 ### **Design:**
